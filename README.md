@@ -1,4 +1,4 @@
-# Speech Emotion Recognition using Deeplearing LSTM Model:
+# Speech Emotion Recognition using Deeplearning LSTM Model:
 ## learning Outcome:
 - learn about seaborn library
 - learn about librosa library
